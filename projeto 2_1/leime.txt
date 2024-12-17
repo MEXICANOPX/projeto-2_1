@@ -1,0 +1,22 @@
+participantes: vinicius santos da silva - victor sena 912-A g2 e joão victor 922
+
+
+1-sim,tudo foi desenvolvido podendo apenas ampliar com html e css ou tornando o codigo mas complexo com outras fucionalidades
+
+
+2-Não indentificamos nenhum erro
+
+
+3-Um otimo projeto pra aperfeissoar e treinar a programação orientada a objetos 
+
+
+4-Uma das dicudades trbalhar com as herenaças fazer o encapsulamento de forma correta   
+
+
+
+//referencias 
+
+
+Documentação oficial do JavaScript:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Working_with_Objects
+
+W3Schools:https://www.w3schools.com/js/js_object_oriented.asp
